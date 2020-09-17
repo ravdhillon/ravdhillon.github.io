@@ -2,21 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Art of Machine Learning 
 
-[Project 1 Title](/sample_page)
+[Linear Regression](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Logistic Regression](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Decision Tree & Random Forest](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[K Nearest Neighbors](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
+[SVM - Support Vector Machines](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
