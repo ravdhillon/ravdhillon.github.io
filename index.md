@@ -1,6 +1,5 @@
 ## Home | [Blog](/blog) | [Resume](/resume) | [Portfolio](/portfolio)  
 
----
 ### Art of Machine Learning 
 
 [Linear Regression]
@@ -40,6 +39,3 @@ Linear Regression is type of Supervised Learning where the model assumes a linea
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
-
-
-
