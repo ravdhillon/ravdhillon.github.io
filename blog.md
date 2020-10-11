@@ -1,4 +1,3 @@
----
 ## Blog
 
 [Linear Regression]
