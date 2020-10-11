@@ -1,3 +1,7 @@
+## [Home](/index) | [Blog](/blog) | Resume | [Portfolio](/portfolio)
+---
+## Art of Machine Learning
+---
 ## My Resume
 
 SUMMARY
