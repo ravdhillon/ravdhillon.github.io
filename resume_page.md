@@ -1,5 +1,5 @@
 ---
-My Resume
+## My Resume
 
 SUMMARY
 •	Self-motivated, “hands-on” technical leader with proven track record for solving complex architecture and data problems. 

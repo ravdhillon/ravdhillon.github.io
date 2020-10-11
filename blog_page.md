@@ -1,4 +1,5 @@
-### Art of Machine Learning 
+---
+## Blog
 
 [Linear Regression]
 Linear Regression is type of Supervised Learning where the model assumes a linear relationship between input variable(s) and single output variable. Idea of Linear Regression model is to estimate the values of the coefficients used in the representation. Estimating the coefficients ...[Read More](/sample_page)
