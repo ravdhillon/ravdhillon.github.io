@@ -1,4 +1,4 @@
-## Home | [Blog](/blog) | [Resume](/resume) | [Portfolio](/portfolio)  
+## Home | [Blog](/blog_page) | [Resume](/resume) | [Portfolio](/portfolio)  
 
 ### Art of Machine Learning 
 

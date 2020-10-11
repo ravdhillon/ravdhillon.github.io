@@ -1,4 +1,3 @@
----
 ### Art of Machine Learning 
 
 [Linear Regression]
