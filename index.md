@@ -1,4 +1,4 @@
-## Portfolio [Read More](/sample_page)
+## Home | [Blog](/sample_page) | [Resume](/sample_page) | [Portfolio](/sample_page)  
 
 ---
 
