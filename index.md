@@ -1,4 +1,4 @@
-## Home | [Blog](/blog_page) | [Resume](/resume) | [Portfolio](/portfolio)  
+## Home | [Blog](/blog_page) | [Resume](/resume_page) | [Portfolio](/portfolio_page)  
 
 ---
 ## MY PHILOSOPHY
