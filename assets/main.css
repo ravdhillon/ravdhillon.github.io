@@ -7,10 +7,12 @@
     justify-content: space-between;
 }
 .title {
-    font: normal normal normal 20px/1.375em "playfair display",serif
+    font: normal normal bold 24px/1.375em "playfair display",serif;
+    font-variant: small-caps;
 }
 .my-website {
-    font: normal normal normal 28px/1.375em "playfair display",serif
+    font: normal normal normal 28px/1.375em "playfair display",serif;
+    color: #03a9f5;
 }
 
 .container {
