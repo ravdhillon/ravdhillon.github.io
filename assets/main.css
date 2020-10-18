@@ -5,6 +5,12 @@
     display: flex;
     justify-content: space-between;
 }
-.body-wrapper {
+.container {
     display: flex
+}
+.profile-summary {
+    flex-grow: 1;
+}
+.content {
+    flex-grow: 2;
 }
