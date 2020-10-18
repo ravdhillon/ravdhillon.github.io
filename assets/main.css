@@ -1,3 +1,10 @@
 .description {
     font-weight: 600;
 }
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+}
+.body-wrapper {
+    display: flex
+}
