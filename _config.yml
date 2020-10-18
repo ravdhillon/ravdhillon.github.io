@@ -1,11 +1,11 @@
 title: Ravisher Dhillon # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 badge: "/images/aws-badge.png?raw=true"
-description: > # your text below (remove <br> elements if you don't need line breaks)
+headline: > # your text below (remove <br> elements if you don't need line breaks)
   Machine Learning | MLOPS
+  <br/>
   Software Engineer | Architect Enterprise Application
-  <br><br>
-  <a href="https://www.linkedin.com/in/ravishersinghdhillon/">View My LinkedIn Profile</a> 
+profile: <a href="https://www.linkedin.com/in/ravishersinghdhillon/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
