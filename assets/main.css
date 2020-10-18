@@ -1,7 +1,15 @@
+.body {
+    font-family: "playfair display",serif;
+}
+
 .top-bar {
     display: flex;
     justify-content: space-between;
 }
+.my-website {
+
+}
+
 .container {
     display: flex;
     justify-content: space-between;
@@ -19,6 +27,9 @@
 }
 .profile {
 
+}
+.blog-title {
+    font: normal normal normal 28px/1.375em "playfair display",serif;
 }
 .blog-image-header {
     max-width: 75%;
