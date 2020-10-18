@@ -1,8 +1,5 @@
-## [Home](/index) | [Blog](/blog) | Resume | [Portfolio](/portfolio)
+### [Home](/index) | [Blog](/blog) | Resume | [Portfolio](/portfolio)
 ---
-## Art of Machine Learning
----
-## My Resume
 
 SUMMARY
 •	Self-motivated, “hands-on” technical leader with proven track record for solving complex architecture and data problems. 

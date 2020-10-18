@@ -1,4 +1,4 @@
-## [Home](/index) | [Blog](/blog) | [Resume](/resume) | Portfolio
+### [Home](/index) | [Blog](/blog) | [Resume](/resume) | Portfolio
 ---
 
 [Linear Regression]
