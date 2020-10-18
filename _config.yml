@@ -1,8 +1,9 @@
 title: Ravisher Dhillon # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
+badge: "/images/aws-badge.png?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <label class='summary-label'>Machine Learning | MLOPS</label>
-  <label class='summary-label'>Software Engineer | Architect Enterprise Application</label>
+  Machine Learning | MLOPS
+  Software Engineer | Architect Enterprise Application
   <br><br>
   <a href="https://www.linkedin.com/in/ravishersinghdhillon/">View My LinkedIn Profile</a> 
   
