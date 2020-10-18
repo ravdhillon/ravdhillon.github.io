@@ -8,9 +8,6 @@
 .container {
     display: flex
 }
-.profile-summary {
-    flex-grow: 1;
-}
 .content {
     flex-grow: 2;
 }
