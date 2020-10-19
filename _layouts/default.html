@@ -22,7 +22,7 @@
       <div class="profile-summary">
         
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius: 50%"/>
         {% endif %}
 
         <p class="headline">{{ site.headline | default: site.github.project_tagline }}</p>
