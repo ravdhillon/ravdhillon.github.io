@@ -1,10 +1,8 @@
 ### [Home](/index) | [Blog](/blog) | [Resume](/resume) | Portfolio
 ---
 
-<div class="model-wrapper">
-    [Linear Regression](/sample_page)
-    [Logistic Regression](/pdf/sample_presentation.pdf)
-</div>
+[Linear Regression](/linear-regression)
+[Logistic Regression](/pdf/sample_presentation.pdf)
 
 <!-- Estimating the coefficients ...[Read More](/sample_page) -->
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
