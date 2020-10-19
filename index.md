@@ -1,5 +1,6 @@
 ### Home | [Blog](/blog) | [Resume](/resume) | [Portfolio](/portfolio)
 ---
+
 <div class="profile-summary">        
     {% if site.logo %}
         <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius: 50%"/>
