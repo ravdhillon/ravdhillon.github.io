@@ -8,10 +8,10 @@ Linear Regression is type of Supervised Learning where the model assumes a linea
     <div class="portfolio-content">
         Idea of Linear Regression model is to estimate the values of the coefficients used in the representation. Estimating the coefficients help us in understanding how the regression line fits the data during model training.
     
-        ```javascript
-        Simple Linear Regression  y = β0 + β1 x    
-        Multiple Linear Regression    y = β0 + β1 x1 + β2 x2 + … + βn xn
-        ```
+        <div class="equation">
+            Simple Linear Regression  y = β0 + β1 x    
+            Multiple Linear Regression    y = β0 + β1 x1 + β2 x2 + … + βn xn
+        </div>
 
         Single input variable – simple linear regression à represented by simple line equation. 
         Multiple input variables – multi linear regression (multi variable regression)  The line equation is called a plane or hyper-plane. 
