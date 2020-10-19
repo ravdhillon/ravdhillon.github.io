@@ -80,7 +80,7 @@ Linear Regression is type of Supervised Learning where the model assumes a linea
 
         
 
-        <div class="portolfio-content-sub-heading">REGULARIZED LINEAR REGRESSION</div>
+        <div class="portolfio-sub-heading">REGULARIZED LINEAR REGRESSION</div>
 
         These techniques address some of the issues (like multi collinearity) of the Ordinary Least Squares. They train the model in same way as OLS, but also penalize the coefficients to reduce model complexity. 
 
@@ -108,6 +108,41 @@ Linear Regression is type of Supervised Learning where the model assumes a linea
         RMSE => gives us the average values with which our predictions vary with output.
     </div>
     <div class="portfolio-highlight">
+        <div class="portolfio-sub-heading">MAIN IDEA</div>
+
+        Idea of Linear Regression model is to estimate the values of the coefficients used in the representation. Estimating the coefficients help us in  understanding how well the regression line fits the data during model training. 
+
+        
+
+        <div class="portolfio-sub-heading">COST (LOSS) FUNCTION</div>
+
+        Mean Squared Error 
+
+        Root Mean Squared Error 
+
+        
+
+        <div class="portolfio-sub-heading">TRAINING LINEAR MODEL</div>
+
+        Ordinary Least Squares or Least Square Regression 
+
+        Gradient Descent 
+
+        Regularized Linear Regression 
+
+        
+
+        <div class="portolfio-sub-heading">REGULARIZATION OF LINEAR MODEL</div> 
+
+        L1 (Lasso) Regularization 
+
+        L2 (Ridge) Regularization 
+
+        
+
+        <div class="portolfio-sub-heading">MODEL PERFORMANCE</div> 
+
+        R2 =>Metric of correlation or coefficient of determination 
     </div>
 </div>
 <!-- Estimating the coefficients ...[Read More](/sample_page) -->

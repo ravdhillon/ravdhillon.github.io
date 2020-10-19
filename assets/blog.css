@@ -5,3 +5,9 @@
 .blog-image-header {
     max-width: 75%;
 }
+
+.equation {
+    background: lightgray;
+    padding: 5px;
+    border-radius: 5px;
+}
