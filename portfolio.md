@@ -2,8 +2,8 @@
 ---
 
 <div class="model-wrapper">
-    <span class="model-item">[Linear Regression](/sample_page) </span>
-    <span class="model-item">[Logistic Regression](/pdf/sample_presentation.pdf) </span>
+    [Linear Regression](/sample_page)
+    [Logistic Regression](/pdf/sample_presentation.pdf)
 </div>
 
 <!-- Estimating the coefficients ...[Read More](/sample_page) -->
