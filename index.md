@@ -1,4 +1,4 @@
-### Home | [Blog](/blog) | [Resume](/resume) | [Portfolio](/portfolio)
+#### Home | [Blog](/blog) | [Resume](/resume) | [Portfolio](/portfolio)
 ---
 
 <span class="about-me">ABOUT ME</span>

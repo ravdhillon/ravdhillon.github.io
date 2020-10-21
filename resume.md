@@ -1,4 +1,4 @@
-### [Home](/index) | [Blog](/blog) | Resume | [Portfolio](/portfolio)
+#### [Home](/index) | [Blog](/blog) | Resume | [Portfolio](/portfolio)
 ---
 
 SUMMARY

@@ -1,4 +1,4 @@
-### [Home](/index) | Blog | [Resume](/resume) | [Portfolio](/portfolio)
+#### [Home](/index) | Blog | [Resume](/resume) | [Portfolio](/portfolio)
 ---
 
 <span class="blog-title">AWS Machine Learning - Specialty Certification</span>
