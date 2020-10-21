@@ -25,9 +25,15 @@
 
 /* Content */
 .title {
+    line-height: 1em;
     font-weight: 500;
     letter-spacing: 1px;
-    color: #000;
+    /* font-variant: all-small-caps; */
+    color: #333;
+    /* font-size: 16px; */
+    padding: 0px;
+    margin: 0px;
+    line-height: 2em;
 }
 .section {
     display: flex;
@@ -42,4 +48,7 @@
 .headline {
     letter-spacing: 1px;
     font-weight: 500;
+}
+.content {
+    text-align: justify;
 }
