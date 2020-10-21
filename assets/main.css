@@ -1,5 +1,7 @@
 .body {
-    font-family: serif;
+    font-family: Open Sans,Arial,sans-serif;
+    font-size: 14px;
+    color: #666;
 }
 
 .top-bar {
@@ -23,8 +25,9 @@
 
 /* Content */
 .title {
-    font: normal normal bold 24px/1.375em "playfair display",serif;
-    font-variant: small-caps;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #000;
 }
 .section {
     display: flex;
@@ -32,10 +35,6 @@
 }
 .section-image {
     max-width: 35%;
-}
-.heading {
-    font-weight: 600;
-    letter-spacing: 1px;
 }
 .sub-heading {
     font-weight: 500;
