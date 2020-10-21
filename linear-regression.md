@@ -1,7 +1,7 @@
 <div class="portfolio-summary">
 Linear Regression is type of Supervised Learning where the model assumes a linear relationship between input variable(s) and single output variable.
 <div class="portfolio-container">
-    <div class="portfolio-content">
+    <div class="content">
         Idea of Linear Regression model is to estimate the values of the coefficients used in the representation. Estimating the coefficients help us in understanding how the regression line fits the data during model training.
     
         <div class="equation">

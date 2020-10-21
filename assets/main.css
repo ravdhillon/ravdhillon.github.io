@@ -6,10 +6,6 @@
     display: flex;
     justify-content: space-between;
 }
-.title {
-    font: normal normal bold 24px/1.375em "playfair display",serif;
-    font-variant: small-caps;
-}
 .my-website {
     font: normal normal normal 28px/1.375em "playfair display",serif;
     color: #03a9f5;
@@ -25,6 +21,15 @@
 .content {
     max-width: 65%;
     flex-grow: 2;
+}
+
+/* Content */
+.title {
+    font: normal normal bold 24px/1.375em "playfair display",serif;
+    font-variant: small-caps;
+}
+.content {
+
 }
 .headline {
     letter-spacing: 1px;

@@ -1,7 +1,7 @@
 #### [Home](/index) | Blog | [Resume](/resume) | [Portfolio](/portfolio)
 ---
 
-<span class="blog-title">AWS Machine Learning - Specialty Certification</span>
+<label class="title">AWS Machine Learning - Specialty Certification</label>
 <br />
 <img class="blog-image-header" src="images/blogs/aws-prep/header.png?raw=true"/>
 <br/>
