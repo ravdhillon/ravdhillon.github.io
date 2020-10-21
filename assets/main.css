@@ -38,6 +38,7 @@
 .section {
     display: flex;
     justify-content: space-between;
+    margin-top: 15px;
 }
 .section-image {
     max-width: 35%;
