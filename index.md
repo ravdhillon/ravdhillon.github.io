@@ -9,7 +9,9 @@
     <img class="section-image" src="/images/data-science.png" atl="Data Science" />
     <div class="section-content">
         <label class="heading">Data Science</label>
-        <label class="sub-heading">Python, Matplotlib, Seaborn</label> 
+        <br />
+        <label class="sub-heading">Python, Matplotlib, Seaborn</label>
+        <br /> 
         <p class="content">Data Science is pretty broad field with overlaps in different fields. I have used following tools and libraries to help analyze and visualize the data. This is often termed as <strong>Exploratory Data Analysis (EDA).</strong></p>
     </div>
 </div>
@@ -17,7 +19,9 @@
 <div class="section">
     <div class="section-content">
         <label class="heading">Machine Learning</label>
-        <label class="sub-heading">Scitkit-learn, Algorithms, CNN, LSTM</label> 
+        <br />
+        <label class="sub-heading">Scitkit-learn, Algorithms, CNN, LSTM</label>
+        <br />
         <p class="content">I have implemented different models to cover differnet use cases. I have used different classical Machine Learning Algorithms like Linear Regression, Naive Bayes, Decision Trees, Support Vector Machines etc. Also possess working knowledge of Deep Learning models like Convolutional Neural Network, LSTM etc. </p>
     </div>
     <img class="section-image" src="/images/data-science.png" atl="Data Science" />    

@@ -9,6 +9,8 @@
 .my-website {
     font: normal normal normal 28px/1.375em "playfair display",serif;
     color: #03a9f5;
+    margin-top: -30px;
+    letter-spacing: 1px;
 }
 
 .container {
@@ -18,18 +20,25 @@
 .profile-summary {
     min-width: 35%;
 }
-.content {
-    max-width: 65%;
-    flex-grow: 2;
-}
 
 /* Content */
 .title {
     font: normal normal bold 24px/1.375em "playfair display",serif;
     font-variant: small-caps;
 }
-.content {
-
+.section {
+    display: flex;
+    justify-content: space-between;
+}
+.section-image {
+    max-width: 35%;
+}
+.heading {
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.sub-heading {
+    font-weight: 500;
 }
 .headline {
     letter-spacing: 1px;
