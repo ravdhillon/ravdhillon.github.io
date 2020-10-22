@@ -3,7 +3,15 @@
 
 <h2 class="title">PORTFOLIO WORK</h2>
 
-[Linear Regression](/linear-regression)
+<div class="section">
+    <img class="section-image" src="/images/data-science.png" atl="Data Science" />
+    <div class="section-content">
+        <h3 class="title">LINEAR REGRESSION</h3>
+        <p class="content">Idea of Linear Regression model is to estimate the values of the coefficients used in the representation. Estimating the coefficients help us in understanding how the regression line fits the data during model training.[Read More...](/linear-regression)
+        </p>
+    </div>
+</div>
+
 [Logistic Regression](/pdf/sample_presentation.pdf)
 
 <!-- Estimating the coefficients ...[Read More](/sample_page) -->
