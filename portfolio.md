@@ -1,5 +1,6 @@
 #### [Home](/index) | [Blog](/blog) | [Resume](/resume) | Portfolio
 ---
+
 <h2 class="title">PORTFOLIO WORK</h2>
 
 [Linear Regression](/linear-regression)
