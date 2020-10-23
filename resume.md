@@ -22,17 +22,21 @@
 <h2 class="title resume-title">EXPERIENCE</h2>
 <div class="resume-experience">
   <div class="resume-company">
-      <span class="resume-company-name">Scotiabank</span><br/>
+      <span class="resume-company-name">SCOTIABANK</span><br/>
       <span class="resume-date">Nov 2019 – Present</span><br/>
       <span class="resume-date">Toronto, ON</span>
   </div>
   <div class="resume-job-description">
     <span class="resume-job-title">Senior Software Engineer</span><br/>
-    <p class="content">Tech Stack: Java, Python, Pandas, Springboot 
-    •	Implemented Log Analytics tool using Python, Spark to generate statistics from web server logs to help different business lines across globe to understand %age of workforce is enabled, register their MFA etc.
-    •	Responsible for managing Scotiaworld application used by 100K+ bank employees worldwide.  
-    •	Implemented features like SSO, fixing security vulnerabilities for applications.
-    •	Mentoring developers in enhancing their software design skills.</p>
+    <span class="resume-tech-stack">Tech Stack: Java, Python, Pandas, Springboot</span><br/> 
+    <p class="content">
+      <ul>
+        <li>Implemented Log Analytics tool using Python, Spark to generate statistics from web server logs to help different business lines across globe to understand %age of workforce is enabled, register their MFA etc.</li>
+        <li>Responsible for managing Scotiaworld application used by 100K+ bank employees worldwide.</li>
+        <li>Implemented features like SSO, fixing security vulnerabilities for applications.</li>
+        <li>Mentoring developers in enhancing their software design skills.</li>
+      </ul>
+    </p>
   </div>
 </div>
 AI Deep Dive                                                                                                                                                  Aug 2019 – Nov 2019 
