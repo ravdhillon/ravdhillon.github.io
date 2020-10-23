@@ -1,30 +1,40 @@
 #### [Home](/index) | [Blog](/blog) | Resume | [Portfolio](/portfolio)
 ---
 
-SUMMARY
-•	Self-motivated, “hands-on” technical leader with proven track record for solving complex architecture and data problems. 
-•	Knowledge of Machine Learning algorithms, Deep Learning, CNNs.
-•	Hands on experience with Python Machine Learning libraries like scikit-learn, TensorFlow, PyTorch.
-•	Deep understanding of designing, building and managing scalable and distributed systems.
-•	Strong working knowledge of back-end tech stack and hands-on experience in designing and implement large-scale data processing pipelines. 
-•	Partner and work collaboratively with people across Product, Design and Engineering teams to deliver complex, large-scale projects.
-•	Excellent verbal and written communication skills, quick learner, team facilitator resulting in excellent rapport with team-members.
-
-SKILLS
+<h2 class="title resume-title">SUMMARY</h2>
+<div class="resume-summary">
+  <ul class="resume-list">
+    </li>Self-motivated, “hands-on” technical leader with proven track record for solving complex architecture and data problem.</li>
+    <li>Knowledge of Machine Learning algorithms, Deep Learning, CNNs.</li>
+    <li>Hands on experience with Python Machine Learning libraries like scikit-learn, TensorFlow, PyTorch.</li>
+    <li>Deep understanding of designing, building and managing scalable and distributed systems.</li>
+    <li>Strong working knowledge of back-end tech stack and hands-on experience in designing and implement large-scale data processing pipelines.</li>
+    <li>Partner and work collaboratively with people across Product, Design and Engineering teams to deliver complex, large-scale projects.</li>
+    <li>Excellent verbal and written communication skills, quick learner, team facilitator resulting in excellent rapport with team-members.</li>
+  </ul>
+</div>
+<h2 class="title resume-title">SKILLS</h2>
 •	Languages: Java, Python, NumPy, Pandas and JavaScript	
 •	Machine/Deep Learning: Tensorflow, Keras, PyTorch, Scikit-learn, CNN, NLP, OpenCV
 •	Big Data: Spark, Hadoop/MapReduce, Data Pipelines, MongoDB
 •	Frameworks: Spring / Spring Boot, AWS, Elastic Search, Docker, ReactJS
 
-EXPERIENCE
-Scotiabank                                                                                                                                                        Nov 2019 – Present
-Senior Software Engineer (Team Lead).                                                                                                                  Toronto, ON
-Tech Stack: Java, Python, Pandas, Springboot 
-•	Implemented Log Analytics tool using Python, Spark to generate statistics from web server logs to help different business lines across globe to understand %age of workforce is enabled, register their MFA etc.
-•	Responsible for managing Scotiaworld application used by 100K+ bank employees worldwide.  
-•	Implemented features like SSO, fixing security vulnerabilities for applications.
-•	Mentoring developers in enhancing their software design skills.
-
+<h2 class="title resume-title">EXPERIENCE</h2>
+<div class="resume-experience">
+  <div class="resume-company">
+      <span class="resume-company-name">Scotiabank</span><br />
+      <span class="resume-company-info">Nov 2019 – Present </br>
+      Toronto, ON</span>
+  </div>
+  <div class="resume-job-description">
+    <span class="resume-job-title">Senior Software Engineer</span><br />
+    <p class="content">Tech Stack: Java, Python, Pandas, Springboot 
+    •	Implemented Log Analytics tool using Python, Spark to generate statistics from web server logs to help different business lines across globe to understand %age of workforce is enabled, register their MFA etc.
+    •	Responsible for managing Scotiaworld application used by 100K+ bank employees worldwide.  
+    •	Implemented features like SSO, fixing security vulnerabilities for applications.
+    •	Mentoring developers in enhancing their software design skills.</p>
+  </div>
+</div>
 AI Deep Dive                                                                                                                                                  Aug 2019 – Nov 2019 
 Machine Learning Engineer                                                                                                                                       Toronto, ON
 Tech Stack: Python, Machine Learning, CNN, NLP, AWS 
