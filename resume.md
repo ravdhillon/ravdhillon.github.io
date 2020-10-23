@@ -1,7 +1,7 @@
 #### [Home](/index) | [Blog](/blog) | Resume | [Portfolio](/portfolio)
 ---
 
-<h2 class="title resume-title">SUMMARY</h2>
+<h3 class="title">SUMMARY</h3>
 <div class="resume-summary">
   <ul class="resume-list">
     <li>Self-motivated, “hands-on” technical leader with proven track record for solving complex architecture and data problem.</li>
@@ -13,13 +13,13 @@
     <li>Excellent verbal and written communication skills, quick learner, team facilitator resulting in excellent rapport with team-members.</li>
   </ul>
 </div>
-<h2 class="title resume-title">SKILLS</h2>
+<h3 class="title resume-title">SKILLS</h3>
 •	Languages: Java, Python, NumPy, Pandas and JavaScript	
 •	Machine/Deep Learning: Tensorflow, Keras, PyTorch, Scikit-learn, CNN, NLP, OpenCV
 •	Big Data: Spark, Hadoop/MapReduce, Data Pipelines, MongoDB
 •	Frameworks: Spring / Spring Boot, AWS, Elastic Search, Docker, ReactJS
 
-<h2 class="title resume-title">EXPERIENCE</h2>
+<h3 class="title resume-title">EXPERIENCE</h3>
 <div class="resume-experience">
   <div class="resume-company">
       <span class="resume-company-name">SCOTIABANK</span><br/>
