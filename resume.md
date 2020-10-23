@@ -22,9 +22,9 @@
 <h2 class="title resume-title">EXPERIENCE</h2>
 <div class="resume-experience">
   <div class="resume-company">
-      <span class="resume-company-name">Scotiabank</span><br />
-      <span class="resume-company-info">Nov 2019 – Present</span></br>
-      Toronto, ON</span>
+      <span class="resume-company-name">Scotiabank</span><br/>
+      <span class="resume-date">Nov 2019 – Present</span><br/>
+      <span class="resume-date">Toronto, ON</span>
   </div>
   <div class="resume-job-description">
     <span class="resume-job-title">Senior Software Engineer</span><br/>
