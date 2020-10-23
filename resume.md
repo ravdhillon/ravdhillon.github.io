@@ -4,7 +4,7 @@
 <h2 class="title resume-title">SUMMARY</h2>
 <div class="resume-summary">
   <ul class="resume-list">
-    </li>Self-motivated, “hands-on” technical leader with proven track record for solving complex architecture and data problem.</li>
+    <li>Self-motivated, “hands-on” technical leader with proven track record for solving complex architecture and data problem.</li>
     <li>Knowledge of Machine Learning algorithms, Deep Learning, CNNs.</li>
     <li>Hands on experience with Python Machine Learning libraries like scikit-learn, TensorFlow, PyTorch.</li>
     <li>Deep understanding of designing, building and managing scalable and distributed systems.</li>
@@ -23,11 +23,11 @@
 <div class="resume-experience">
   <div class="resume-company">
       <span class="resume-company-name">Scotiabank</span><br />
-      <span class="resume-company-info">Nov 2019 – Present </br>
+      <span class="resume-company-info">Nov 2019 – Present</span></br>
       Toronto, ON</span>
   </div>
   <div class="resume-job-description">
-    <span class="resume-job-title">Senior Software Engineer</span><br />
+    <span class="resume-job-title">Senior Software Engineer</span><br/>
     <p class="content">Tech Stack: Java, Python, Pandas, Springboot 
     •	Implemented Log Analytics tool using Python, Spark to generate statistics from web server logs to help different business lines across globe to understand %age of workforce is enabled, register their MFA etc.
     •	Responsible for managing Scotiaworld application used by 100K+ bank employees worldwide.  

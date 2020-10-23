@@ -1,3 +1,25 @@
 .resume-title {
-    background-color: gray;
+    background-color: #494949;
+    color: #fff;
+    padding: 10px;
+    /* border-radius: 0%; */
+    line-height: 0;
+}
+.resume-experience {
+    display: inline-flex;
+}
+.resume-company {
+    padding: 10px;
+}
+.resume-company-name {
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.resume-company-info {
+    font-variant: small-caps;
+    white-space: nowrap;
+}
+.resume-job-description {
+    padding: 10px;
+    text-align: justify;
 }
